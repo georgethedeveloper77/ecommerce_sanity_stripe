@@ -14,20 +14,19 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^2.29.5",
-    "@sanity/core": "^2.29.5",
+    "@sanity/base": "^2.10.5",
+    "@sanity/core": "^0.139.2",
     "@sanity/default-layout": "^2.29.7",
     "@sanity/default-login": "^2.29.5",
     "@sanity/desk-tool": "^2.29.7",
     "@sanity/vision": "^2.29.5",
     "prop-types": "^15.7",
-    "react": "^17.0",
+    "react": "^17.0.2",
     "react-dom": "^17.0",
     "styled-components": "^5.2.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/adrianhajdin/ecommerce_sanity_stripe.git"
+    "url": "https://github.com/georgethedeveloper77/ecommerce_sanity_stripe"
   }
 }
